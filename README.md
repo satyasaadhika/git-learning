@@ -1,6 +1,6 @@
 # KnowledgeGate Git learning project
 
-Author-satyasaadhika
+Author-satyasaadhika(PRIYANSHU MAURYA)
 <br>
 This repo is only meant to be used by students to learn git and try different git command
 
