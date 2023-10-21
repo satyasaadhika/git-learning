@@ -2,6 +2,7 @@
 
 Author-satyasaadhika (Priyanshu Maurya)
 <br>
+<br>
 This repo is only meant to be used by students to learn git and try different git command.
 
 This is the second change that, I am doing in the readme file.
